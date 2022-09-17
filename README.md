@@ -3,14 +3,13 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/giovannirm/Trivia-with-lists-and-cycles">
-    <img src="images/trivia.jpg" alt="Logo" width="80" height="80">
+    <img src="images/trivia.jpg">
   </a>
 
   <h3 align="center">README-Trivia</h3>
@@ -54,12 +53,12 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* Python
+* Dowload and install python
   ```sh
-  Dowload and install https://www.python.org/downloads/windows/
+  https://www.python.org/downloads/windows/
   ```
 
-### Installation and run the application
+### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
@@ -73,12 +72,9 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-
+<img src="images/run-trivia.png">
 
 <!-- LICENSE -->
 ## License
@@ -87,13 +83,24 @@ Distributed under the Silabuz Academy License. See `LICENSE.txt` for more inform
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
 ## Contact
 
-Giovanni Rojas Morales - [@your_twitter](https://www.linkedin.com/in/michelle-giovanni-rojas-morales-909755193/) - giovannirm.python@gmail.com
+Giovanni Rojas Morales - [@linkedin](https://www.linkedin.com/in/michelle-giovanni-rojas-morales-909755193/) - giovannirm.python@gmail.com
 
 Project Link: [https://github.com/giovannirm/Trivia-with-lists-and-cycles](https://github.com/giovannirm/Trivia-with-lists-and-cycles)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/giovannirm/Trivia-with-lists-and-cycles/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/giovannirm/Trivia-with-lists-and-cycles/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/giovannirm/Trivia-with-lists-and-cycles/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/giovannirm/Trivia-with-lists-and-cycles/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/michelle-giovanni-rojas-morales-909755193/
